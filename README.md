@@ -49,6 +49,7 @@ make
 ```
 
 Produces `./synchronome`. Requires `-lpthread -lrt` (already wired into the Makefile).
+You also need a empty frame repository.
 
 ## Status
 
